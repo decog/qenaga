@@ -6,7 +6,7 @@ layout: home
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | niya ka'a    | dnigi | ghenuy            |
-| out of stock | [good and plenty ](https://qenaga.org/assets/audio/texts/agnes-2.mp3)  | nice  |
+| out of stock | https://qenaga.org/assets/audio/texts/agnes-2.mp3  | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
